@@ -1,0 +1,15 @@
+cat > GIT-EXAM.md <<'EOF'
+# GIT-EXAM Feature
+
+## Project
+AI Project Gallery
+
+## Changes
+- Created a dedicated feature branch named GIT-EXAM.
+- Added project contribution documentation.
+- Prepared the changes for review through a Pull Request.
+
+## Purpose
+Demonstrate Git branching, committing, pushing,
+and collaborative development using GitHub.
+EOF
